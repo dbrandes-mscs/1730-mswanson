@@ -21,11 +21,25 @@ namespace dbrandesex1b1
         {
             //txtTotal.Text = "10";
             //txtTotal.ReadOnly = false;
+            txtDiscountAmount.Text =
+                 (Convert.ToDecimal(txtSubtotal.Text)
+                     * Convert.ToDecimal(txtDiscountPercent.Text) / 100).ToString();
+            txtTotal.Text =
+                 (Convert.ToDecimal(txtSubtotal.Text)
+                     - Convert.ToDecimal(txtDiscountAmount.Text)).ToString();
+
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void txtDiscountAmount_TextChanged(object sender, EventArgs e)
+        {
+            //txtDiscountAmount.Text = 
+            //    (Convert.ToDecimal(txtSubtotal.Text) 
+            //    * Convert.ToDecimal(txtDiscountPercent.Text) / 100).ToString();
         }
     }
 }
