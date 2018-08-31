@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2435985-DD08-4E05-8D56-BD553520022A}</ProjectGuid>
+    <ProjectGuid>{B39A6BCE-D7B5-413E-81D8-7A9E482736CD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>dbrandes1b1</RootNamespace>
-    <AssemblyName>dbrandes1b1</AssemblyName>
+    <RootNamespace>dbrandesex1b1</RootNamespace>
+    <AssemblyName>dbrandesex1b1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

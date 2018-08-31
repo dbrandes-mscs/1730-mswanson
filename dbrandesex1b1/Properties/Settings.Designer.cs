@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dbrandes1b1.Properties
+namespace dbrandesex1b1.Properties
 {
 
 
