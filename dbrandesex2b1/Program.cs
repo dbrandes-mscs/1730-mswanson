@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace dbrandesex1d1
+namespace dbrandesex2b1
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace dbrandesex1d1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CurrencyExchange());
+            Application.Run(new frmMain());
         }
     }
 }
