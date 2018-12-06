@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbrandesex2h.Tests", "dbran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethodsSamp", "1730-2018-samples\StringMethodsSamp\StringMethodsSamp.csproj", "{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbrandesex3a1", "dbrandesex3a1\dbrandesex3a1.csproj", "{7979AE00-560A-405F-8525-0B2341914D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbrandes3a1UnitTests", "dbrandes3a1UnitTests\dbrandes3a1UnitTests.csproj", "{63E62AC7-06C3-4804-87EF-07D761187DC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7979AE00-560A-405F-8525-0B2341914D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7979AE00-560A-405F-8525-0B2341914D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7979AE00-560A-405F-8525-0B2341914D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7979AE00-560A-405F-8525-0B2341914D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E62AC7-06C3-4804-87EF-07D761187DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E62AC7-06C3-4804-87EF-07D761187DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E62AC7-06C3-4804-87EF-07D761187DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E62AC7-06C3-4804-87EF-07D761187DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
